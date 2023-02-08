@@ -4,4 +4,4 @@
 #code code code
 print('Hello')
 
-#changes: add, commit, push
+#changes
